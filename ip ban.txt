@@ -1,5 +1,6 @@
 #la idea de este repositorio es colocar los ip peligrosos que hayan sido encuarentenados en el firewall
 
+73.30.132.146
 74.64.240.245
 38.7.85.97
 201.249.43.6
