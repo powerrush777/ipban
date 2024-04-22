@@ -1,7 +1,4 @@
 #la idea de este repositorio es colocar los ip peligrosos que hayan sido encuarentenados en el firewall
-#TAHAN
-66.165.234.210
-66.165.234.210
 
 73.30.132.146
 74.64.240.245
