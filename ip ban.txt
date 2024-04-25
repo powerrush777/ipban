@@ -1,6 +1,7 @@
 #la idea de este repositorio es colocar los ip peligrosos que hayan sido encuarentenados en el firewall
 #phishing
 51.120.6.132
+3.162.185.123
 
 73.30.132.146
 74.64.240.245
