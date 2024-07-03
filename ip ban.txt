@@ -1,4 +1,8 @@
 #la idea de este repositorio es colocar los ip peligrosos que hayan sido encuarentenados en el firewall
+#insoportable facebook???
+31.13.94.51
+31.13.94.24
+
 #tahan mail
 66.165.234.210
 
@@ -6,6 +10,18 @@
 51.120.6.132
 3.162.185.123
 
+#baneados fortigate
+59.88.178.195
+59.92.161.251
+59.93.20.50
+59.99.33.44
+117.248.27.192
+79.110.49.124
+117.206.68.102
+94.156.79.39
+117.208.137.155
+34.87.149.1
+151.101.3.6
 194.59.31.92
 188.214.125.181
 40.133.224.20
