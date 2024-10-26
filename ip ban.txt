@@ -1,7 +1,16 @@
 #la idea de este repositorio es colocar los ip peligrosos que hayan sido encuarentenados en el firewall
 
-#tahan mail
-66.165.234.210
+#lista cuarentena
+179.49.136.0/22
+177.36.128.0/21
+201.182.56.0/22
+45.4.120.0/22
+45.183.24.0/22
+170.254.192.0/22
+24.152.28.0/22
+168.232.220.0/22
+177.36.140.0/22
+45.179.108.0/22
 
 #phishing
 51.120.6.132
