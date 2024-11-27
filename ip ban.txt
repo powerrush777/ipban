@@ -1,6 +1,14 @@
 #la idea de este repositorio es colocar los ip peligrosos que hayan sido encuarentenados en el firewall
 
 #lista cuarentena
+170.238.228.0/22
+170.0.24.0/22
+45.164.96.0/22
+177.54.80.0/20
+118.194.248.0/21
+131.100.104.0/22
+191.36.136.0/21
+170.244.160.0/22
 200.115.100.0/22
 177.36.139.0/24
 177.39.80.0/21
